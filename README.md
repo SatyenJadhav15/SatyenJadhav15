@@ -5,8 +5,9 @@
 </div>
 -
 - 👋 Hi, I’m Satyen Jadhav
-- 👀 I’m interested in Devops culture
-- 🌱 I’m currently learning about git,github , docker and kubbernetes  
+- 👀 I’m a experienced DevOps Engineer
+- 🌱 I’m currently working with clouds such as AWS, Azure, GCP , git, Github for version control, Jenkins for CI/CD automation , Docker for containerization,Argo CD ,Kubernetes for deployment.
+ For monitoring and logging i am using Prometheus , Grafana , elk etc.
 - 💞️ I’m looking to collaborate on diffrent projects.
 - 📫 Reach me satyendjadhav@gmail.com 
 - 😄 Pronouns: Satya
