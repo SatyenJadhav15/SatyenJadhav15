@@ -4,15 +4,75 @@
     </h1>
 </div>
 -
-- 👋 Hi, I’m Satyen Jadhav
-- 👀 I’m a experienced DevOps Engineer
-- 🌱 I’m currently working with clouds such as AWS, Azure, GCP , git, Github for version control, Jenkins for CI/CD automation , Docker for containerization,Argo CD ,Kubernetes for deployment.
- For monitoring and logging i am using Prometheus , Grafana , elk etc.
-- 💞️ I’m looking to collaborate on diffrent projects.
-- 📫 Reach me satyendjadhav@gmail.com 
-- 😄 Pronouns: Satya
-- ⚡ Fun fact: ...
-- 
+Hi 👋, I'm Satyen
+
+Senior DevOps Engineer | Cloud Architect | Platform Engineer
+
+I design, automate, and scale cloud infrastructure for modern applications.
+
+🚀 Experienced in building highly available, secure, and cost-optimized platforms on AWS, Azure, and Kubernetes.
+
+🔹 Infrastructure as Code (Terraform, CloudFormation)
+🔹 Kubernetes & Container Platforms
+🔹 CI/CD Automation & GitOps
+🔹 Cloud Security & Compliance
+🔹 Observability & SRE Practices
+🔹 DevOps Transformation & Platform Engineering
+
+Tech Stack
+
+**Cloud**
+
+* AWS
+* Azure
+* GCP
+
+**Containers & Orchestration**
+
+* Kubernetes
+* Docker
+* Helm
+* ArgoCD
+
+**Infrastructure as Code**
+
+* Terraform
+* CloudFormation
+* Ansible
+
+**CI/CD**
+
+* GitHub Actions
+* Jenkins
+* Azure DevOps
+* GitLab CI
+
+**Monitoring & Observability**
+
+* Prometheus
+* Grafana
+* ELK Stack
+* Datadog
+
+**Programming**
+
+* Python
+* Bash
+* Go
+
+What I'm Working On
+
+* Cloud-native platform engineering
+* Kubernetes automation
+* AI-powered DevOps workflows
+* Infrastructure automation at scale
+
+Connect With Me
+
+* LinkedIn:www.linkedin.com/in/satyen-jadhav
+* Email: satyendjadhav@gmail.com
+
+> "Automate everything. Measure everything. Improve continuously."
 
 <!---
 SatyenJadhav15/SatyenJadhav15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
