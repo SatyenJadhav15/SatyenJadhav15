@@ -74,6 +74,13 @@ Connect With Me
 
 > "Automate everything. Measure everything. Improve continuously."
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SatyenJadhav15)
+
+![GitHub Streak](https://streak-stats.demolab.com)
+
+github-contribution-grid-snake
+
+Profile Views
 <!---
 SatyenJadhav15/SatyenJadhav15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
